@@ -14,8 +14,13 @@ For a live version, go [here](https://replit.com/@grandeurkoe/top-100-movies-to-
 
 ### Day 046 - Musical Time Machine
 
-This project simulates the Musical Time Machine by scraping the "Billboard Hot 100" webpage (from the [Billboard](https://www.billboard.com/charts/hot-100) website) and adding each song to a Spotify playlist using the Spotipy API. 
+This project simulates the Musical Time Machine by scraping the "Billboard Hot 100" webpage (from the [Billboard](https://www.billboard.com/charts/hot-100) website) and adding each song to a Spotify playlist using the spotipy library. 
 
-Get time travel date as user input.
+Get time travel date as user input. Use the requests module to get the contents of the webpage. Store the newly acquired webpage content as text (i.e., string). Use the bs4 (Beautiful Soup 4) library to parse the contents of the webpage and acquire the "Billboard Hot 100". 
+
+Use the spotipy library to perform the following operations:
+- Create an empty playlist.
+- Use the spoitpy API to search for tracks that you scraped from "Billboard Hot 100" webpage in Spotify.
+- Add tracks to the playlist.
 
 ![Musical Time Machine](musical-time-machine/musical-time-machine.gif)
