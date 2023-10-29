@@ -24,3 +24,11 @@ Use the spotipy library to perform the following operations:
 - Add tracks to the playlist.
 
 ![Musical Time Machine](musical-time-machine/musical-time-machine.gif)
+
+### Day 047 - Amazon Price Tracker
+
+This project involves scraping a product page from the Amazon website. Use the requests module to get the contents of the webpage. Store the newly acquired webpage content as text (i.e., string). Use the bs4 (Beautiful Soup 4) library to parse the contents of the webpage and acquire the product name and price. If the produce price is less than the target price, then send an email to oneself using the smtplib library.
+
+For a live version, go [here](https://replit.com/@grandeurkoe/automated-amazon-price-tracker?v=1) .
+
+![Amazon Price Tracker](automated-amazon-price-tracker/automated-amazon-price-tracker.gif)
