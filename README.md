@@ -11,3 +11,11 @@ This project involves scraping "The Top 100 Movies of All Time" webpage (from th
 For a live version, go [here](https://replit.com/@grandeurkoe/top-100-movies-to-watch?v=1) .
 
 ![Top 100 Movies to Watch](top-100-movies-to-watch/top-100-movies-to-watch.gif)
+
+### Day 046 - Musical Time Machine
+
+This project simulates the Musical Time Machine by scraping the "Billboard Hot 100" webpage (from the [Billboard](https://www.billboard.com/charts/hot-100) website) and adding each song to a Spotify playlist using the Spotipy API. 
+
+Get time travel date as user input.
+
+![Musical Time Machine](musical-time-machine/musical-time-machine.gif)
