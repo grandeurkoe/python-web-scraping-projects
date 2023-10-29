@@ -10,4 +10,4 @@ This project simulates the Kanye Quotes App. Use the requests module to get kany
 
 For a live version, go [here]() .
 
-![Top 100 Movies to Watch]()
+![Top 100 Movies to Watch](top-100-movies-to-watch/top-100-movies-to-watch.gif)
