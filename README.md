@@ -6,8 +6,8 @@ Each project has been built from scratch with minimal to no assistance.<br/>
 
 ### Day 045 - Top 100 Movies to Watch
 
-This project simulates the Kanye Quotes App. Use the requests module to get kanye quotes from the [kanye.rest](https://kanye.rest/) API. Fetch the quotes from the newly acquired JSON response and store it. Fetch and display a random quote on button click. 
+This project involves scraping "The Top 100 Movies of All Time" webpage (from the [Empire](https://www.empireonline.com/movies/features/best-movies-2/) website). Use the requests module to get the contents of the webpage. Store the newly acquired webpage content as text (i.e., string). Use the bs4 (Beautiful Soup 4) library to parse the contents of the webpage and acquire the  "The Top 100 Movies of All Time". Finally, push top 100 movies into a text file.
 
-For a live version, go [here]() .
+For a live version, go [here](https://replit.com/@grandeurkoe/top-100-movies-to-watch?v=1) .
 
 ![Top 100 Movies to Watch](top-100-movies-to-watch/top-100-movies-to-watch.gif)
