@@ -70,7 +70,7 @@ python -m pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-## Built With
+## Built Using
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=#4584b6" />
   <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-ffe873?style=flat-square&logo=pycharm&logoColor=black" />
